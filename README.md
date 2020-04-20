@@ -1,6 +1,6 @@
 # Deletionpedia
 
-[Deletionpedia](http://deletionpedia.org) is an anti-deletionist inclusionist project to rescue articles that are about to be deleted on Wikipedia.
+[Deletionpedia](https://deletionpedia.miraheze.org) is an anti-deletionist inclusionist project to rescue articles that are about to be deleted on Wikipedia.
 
 ## antidelete.py
 
